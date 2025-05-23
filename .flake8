@@ -1,0 +1,5 @@
+[flake8]
+exclude = venv, .git,__pycache__,build,dist
+ignore = E501
+max-line-length = 79
+
