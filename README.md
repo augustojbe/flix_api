@@ -1,1 +1,1 @@
-## Projeto em andamentno - Criação de uma API Rest de filmes
+## Projeto em andamento - Criação de uma API Rest de filmes utilizando DRF  Django Rest Framework
