@@ -9,6 +9,3 @@ def movie_pre_save(sender, instance, **kwargs):
         genero = instance.genre.name
         ai_resumo = get_movie_resumo(instance.title, genero)
         instance.resumo = ai_resumo
-
-
-
